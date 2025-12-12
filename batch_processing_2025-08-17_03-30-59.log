@@ -1,0 +1,370 @@
+[2025-08-17 03:30:59] [INFO] ✅ Conexión exitosa a la base de datos (entorno: docker)
+[2025-08-17 03:30:59] [INFO] 🚀 Iniciando procesamiento por lotes de: organizations_with_user_id.csv
+[2025-08-17 03:30:59] [INFO] 📊 Total de registros a procesar: 1615
+[2025-08-17 03:30:59] [INFO] 📦 Procesando lote 1/33 (50 registros)
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: responsable Compras
+[2025-08-17 03:30:59] [INFO] ✅ Lote 1 procesado exitosamente
+[2025-08-17 03:30:59] [INFO] 📈 Progreso: 3.03% completado
+[2025-08-17 03:30:59] [INFO] 📦 Procesando lote 2/33 (50 registros)
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JOSE RETAMALES QUIÑELEN
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FERNANDO JOSE AGUERO AGUIRRE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CRISTIAN NICOLAS FUENTES DIAZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: HONORIO ONOFRE CHAVEZ CASTILLO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ANDRES RODRIGO UBILLA PACHECO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ALEJANDRA ORRICO VASQUEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FREDDY RICHARD RODRIGUEZ ROCHA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: DAVID BOBADILLA CARO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CRISTIAN MARCELO JARA REYES
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: PAMELA MAESTRI MELLA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARIA ELIZABETH VILLAR MARTINEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARCELO ENRIQUE DONOSO RIQUELME
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JULIO CESAR CONTRERAS GALLARDO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MIGUEL ANGEL ARENAS NUÑEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: RAUL CORNEJO AMAYA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: TAMARA LOPEZ ROMERO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: PAULA SCHOLZ BUSTOS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: VICTOR HERNAN PARDO VARGAS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: PABLO FELIPE RIQUELME PUENTES
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CRISTIAN GERMAN ROMERO CARMONA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ESTEBAN ALBERTO MELLA PINO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: SAUL ANDRES HIDALGO ARIAS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: GERMAN BRAULIO VEGA ROJAS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: DANIEL ALEJANDRO POBLETE ROMERO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MIRIAM FABIOLA URRA PINO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CLAUDIO LONCONADO MARIN
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FABIOLA HAYDEE SEPULVEDA DAVILA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FREDDY VEGA ARAYA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: RODRIGO HERNAN SEDAN GOMEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: RODRIGO PEDRO SILVA CARVAJAL
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ALEX MAURICIO MUÑOZ RODRIGUEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: VICTOR NUÑEZ ROCO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: SORAYA DEL CARMEN LUCERO SILVA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JOSE MARCELO CONTRERAS ORTIZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MITZI YESENIA AGUILAR OYARZUN
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CRISTIAN JOFRE MADARIAGA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CLAUDIA LILIAN ROCCO MONTERO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MAURICIO ANDRES NAVARRETE CABRERA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JOHN PABLO ALEGRIA ALBUERNO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: NIDIA ALEJANDRA ERAZO DONOSO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: GUSTAVO BARRIOS VALENZUELA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CARMEN PATRICIA ACEVEDO TORRES
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ALEX VIKING ROJAS GODOY
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: PAULA ANDREA RUBILAR VERGARA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: TANIA MARCUELLO URIBE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: HUGO GONZALEZ BUSTAMANTE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARCO ANTONIO ZARATE SAN MARTIN
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JIMMY JOSE CARTES MEDINA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: YASNA CAROLA DIAZ MARZAN
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: RAFAEL ANTONIO PONCE FERREIRA
+[2025-08-17 03:30:59] [INFO] ✅ Lote 2 procesado exitosamente
+[2025-08-17 03:30:59] [INFO] 📈 Progreso: 6.06% completado
+[2025-08-17 03:30:59] [INFO] 📦 Procesando lote 3/33 (50 registros)
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: KAREN HERNANDEZ PEREIRA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CHRISTIAN MARCELO DELGADO ECHEVERRIA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JORGE GUSTAVO CORRAL OROSTEGUI
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FERNANDO ANDRES PAREDES DIAZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JORGE ELIAS CALCUMIL PEREIRA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ROLANDO DÜNNER
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MAXIM VLADIMIR RIELOFF NUNEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: VERONICA VICTORIA GALLARDO DIAZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CLIENTES VARIOS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MAURICIO ANTONIO PLAZA SALINAS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: RODRIGO PEREZ CASTRO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: PATRICK INOSTROZA AGUIRRE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ANA MARIA MOLINA GUTIERREZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: NICOLAS BERNARDO MORELL MORAGA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ERIC JONATHAN BOBADILLA ROJAS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CARLOS ANDRES HERNANDEZ GALDAMEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: KARINA DEL CARMEN DUHART SEVERINO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ELOY ANTONIO ACUÑA JER
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CLAUDIO CESAR SOTO GAETE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MAURICIO ALEJANDRO BARRERA LOBOS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: EZEQUIEL TREISTER
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ANGELICA ZAMBRANO IBAÑEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: RICARDO CESARIO DE FARIA ALVIM
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ALEJANDRO CLOCCHIATTI
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: DANTE MINNITI
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARCIO CATELAN
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: EDUARDO ANTONIO ESCALA LABBE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CLAUDIO ALEXIS VENEGAS PALMA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARIO ARMANDO SOLIS ROODRIGUEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARIA PAZ MUÑOZ LETELIER
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: EVELYN KATIUSKA GOMEZ FREZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARIA JOSE ROJAS CEA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JUAN CARLOS JIMENEZ ESCOBAR
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: IGNACIO ANDRES PARDO APPARCEL
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: VICTOR HUGO LEVINERI HERNANDEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: RUDBYCKS REINOSO MUÑOZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: PRISCILLA JOHANNA QUINTANILLA CISTERNAS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: VANESSA CHAMBLAS VERA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: OSCAR ELIAS SALINAS GONZALEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: VICTOR JOEL GOMEZ VIDAL
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CAROLINA AGUILERA HERRERA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARCO ANTONIO SEGUEL SANDOVAL
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ALAMIRO ANDRES LOPEZ DUARTE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: OSVALDO HENRIQUE PINTO RODRIGUEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CRISTIAN ENRIQUE BUSTAMANTE ECHEVERRIA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ROMINA ANDREA RIQUELME ZELADA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: DIEGO ZAÑARTU BACARREZA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: LEONARDO ANDRES OSSES VIDAL
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: GEOVANNY FIGUEROA SANTELICES
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: VALESKA ANDREA DEL RIO REYES
+[2025-08-17 03:30:59] [INFO] ✅ Lote 3 procesado exitosamente
+[2025-08-17 03:30:59] [INFO] 📈 Progreso: 9.09% completado
+[2025-08-17 03:30:59] [INFO] 📦 Procesando lote 4/33 (50 registros)
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ROMINA ANDREA SOTO IBAÑEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: DANIEL ALEJANDRO JARA ZERENE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: GONZALO AMUNATEGUI BASCUÑAN
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FERNANDO ANDRES MUÑOZ SOTO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: DANIEL ALEJANDRO BECERRA VALENZUELA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CRISTOBAL SEBASTIAN REYES ORELLANA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: NATALIA LECAROZ QUEZADA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: LUIS ALBERTO MAUREIRA MEZA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CHRISTENSEN MARCK VICENCIO VALDES
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CONSTANZA PARADA RETAMAL
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: LEANDRO ELOY TRONCOSO MORA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CLAUDIO ALVAREZ RIVERA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: NATALIA FRANCISCA REYES PENROZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: GONZALO IGNACIO LARRONDO VILLAR
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ANDREA PAZ GONZALEZ VALENZUELA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CAROLINA OLIVOS P.
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: SEBASTIAN ANDRES DURAN ESPINOSA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARIA DE LA PAZ ORTIZ MADARIAGA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FELIPE ALEJANDRO FERRADA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JOTAM MUÑOZ MEDINA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CARLOS ANTONIO FONSECA ORTIZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: NICOLAS ANDRES AMPUERO RIVAS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: HANS DEREK CRUZ ORTIZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ERICK ANDRES OPAZO OTEIZA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: GUSTAVO PAUL VARGAS SALAZAR
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: BRAULIO OYARZUN BARROS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: TAMARA AGHEMIO TORO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JAVIER IGNACIO VERMEERSCH ARMIJO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JORGE EDUARDO CORNEJO CORNEJO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: EDUARDO ORTEGA FERREIRA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MASNIA DANAE PUENTES NEGRETE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: VICTOR ANDRES BARRAZA ARCOS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARIA FERNANDA ZARATE TAPIA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: NICOLAS PATRIZZIO BENACCHIO ROSALES
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JORDAN ALBANO CARRILLO SOTO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: ALBERTO ANDRES HELLER ANCAROLA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: GABRIELA BRAVO VELASQUEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MAURO SEBASTIAN REYES SEPULVEDA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JOSE BENJAMIN VARAS CARRASCO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: KEVIN ALEXANDER CATALAN RIFO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: DANIEL BENJAMIN OXMAN OLIVA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CARLA ANDREA ELOZ TRUJILLO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CARLOS ALVAREZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: KURT JOAQUIN GOETZ MATUS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: MARIANA MOREIRA VASQUEZ
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FRANCISCO ALEXANDER MOLARES PONCE
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: KEVIN IGNACIO CLAVERIA ARIAS
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: FRANCISCA ESMERALDA MUÑOZ SOTO
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: JOSE LUIS URZUA DINAMARCA
+[2025-08-17 03:30:59] [WARNING] ⚠️ Organización duplicada omitida: CAMILA FERNANDA MOYA ALARCON
+[2025-08-17 03:30:59] [INFO] ✅ Lote 4 procesado exitosamente
+[2025-08-17 03:30:59] [INFO] 📈 Progreso: 12.12% completado
+[2025-08-17 03:30:59] [INFO] 📦 Procesando lote 5/33 (50 registros)
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIOS PROFESIONALES DE LENGUAJE CARMEN JIRON E.I.R.L
+[2025-08-17 03:31:00] [INFO] ✅ Lote 5 procesado exitosamente
+[2025-08-17 03:31:00] [INFO] 📈 Progreso: 15.15% completado
+[2025-08-17 03:31:00] [INFO] 📦 Procesando lote 6/33 (50 registros)
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: EDIFICIO APOQUINDO 2929
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CONDOMINIO PARQUE PINARES TOWERS
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: JORGE MAS FIGUEROA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ISABEL SANDOVAL PINO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: OCTAVIO RENZO ZICAVO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CONDOMINIO MIRADOR DEL PARQUE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: JOSE PEREZ ORTIZ
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ENEDINA NEIRA RIVAS
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: BANCO DE LA NACION ARGENTINA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: OBRASCON HUARTE LAIN S.A AGENCIA EN CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: TIS HISPANOAMERICA S.L AGENCIA DE CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SOFTWARE AG ESPAÑA S.A. AGENCIA EN CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FARMACIAS DE SIMILARES CHILE S.A
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: LENOVO AGENCIA EN CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: IDOM CONSULTING, ENGINEERING, ARCHITECTURE S.A AGENCIA EN CH
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: COSAPI S.A. AGENCIA EN CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: PATRICIO RAMON CANOBRA ALVAREZ
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: RICARDO SOLIS SILVA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: JORGE IGNACIO OLAVARRIA HERNANDEZ
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: MARIA CECILIA ETEROVIC NOVOA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CORPORACION ADMINISTRATIVA DEL PODER JUDICIAL
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SUPERINTENDENCIA DE ELECTRICIDAD Y COMBUSTIBLES
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: INSTITUTO NACIONAL DE CAPACITACION PROFESIONAL INACAP
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: UNIVERSIDAD DE CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: UNIVERSIDAD DE SANTIAGO DE CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUERZA AEREA DE CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: COMANDO DE PERSONAL FACH
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: EMPRESA NACIONAL DE AERONAUTICA DE CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: MOP - DIRECCION DE AEROPUERTOS DE ISLA DE PASCUA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: EMPRESA DE FERROCARRILES DEL ESTADO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: JOSE MOISES QUEZADA GUTIERREZ
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: Servicio Nacional de Capacitación y Empleo
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD METROPOLITANO OCCIDENTE HOSP. DE CURACAVI
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO NACIONAL DE SALUD HOSPITAL DE COELEMU
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: Hospital Provincial Dr. Rafael Avaria Valenzuela de Curanila
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: HOSPITAL BASE OSORNO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD DEL RELONCAVI HOSPITAL DE FUTALEUFU
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD HOSPITAL QUELLON
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD ANTOFAGASTA HOSPITAL L
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD DEL MAULE HOSPITAL DE TALCA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD ÑUBLE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: HOSPITAL CLINICO HERMINDA MARTIN
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: HOSPITAL COMUNITARIO DE SALUD FAMILIAR DE BULNES
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD NUBLE HOSPITAL DE YUNGAY
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD ÑUBLE HOSPITAL DE QUIRIHUE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: HOSPITAL COMUNITARIO DE SALUD FAMILIAR EL CARMEN
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERVICIO DE SALUD METROPOLITANA NORTE HOSPITAL SAN JOSE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: INSTITUTO NACIONAL DEL TORAX
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: AGUAS ANDINAS S.A.
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: PARQUE METROPOLITANO DE SANTIAGO
+[2025-08-17 03:31:00] [INFO] ✅ Lote 6 procesado exitosamente
+[2025-08-17 03:31:00] [INFO] 📈 Progreso: 18.18% completado
+[2025-08-17 03:31:00] [INFO] 📦 Procesando lote 7/33 (50 registros)
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CONSULTORIO GENERAL URBANO VIOLETA PARRA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ZONA DE CARABINEROS SEG. PRIVADA CONTROL DE ARMAS Y EXPLOSIV
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: I. MUNICIPALIDAD DE PADRE LAS CASAS
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SECRETARIA REGIONAL MINIST. DE EDUC. DE LA REGION DE ÑUBLE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CRUZ DEL PILAR JIMENEZ CONTRERAS
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: SERGIO GONZALO URRUTIA DEL VALLE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: EDUARDO ENRIQUE LUCERO BASAURE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FRANCISCO VICUÑA ERRAZURIZ
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION EDUCACIONAL CASABIERTA COANIQUEM
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION MEMORIA VIVA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION SAN IGNACIO EL BOSQUE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION VILLA MARIA ACADEMY
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION STUKA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION EDUCACIONAL LICEO SAN JOSE DE REQUINOA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CORPORACION HERMANAS EDUCADORAS MISIONERAS ALBERTO HURTADO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION EDUCACIONAL MASTER 7
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CORP. MUNICIP. DE FOMENTO AL DESARROLLO EC. Y PROD. DE EST.
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CORPORACION INSTITUTO DE ASTRONOMIA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: MULTIBIEN,SERVICIOS DE BIENESTAR MULTIEMPRESAS
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CONDOMINIO PARQUE PINARES RESIDENCE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CONDOMINIO PARQUE PINARES HOUSE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: INSTITUTO PROFESIONAL DE CHILE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: GRUPO ASOCIATIVO LOCAL SAN DIEGO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION EDUCACIONAL ANTUPIREN
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION EDUCACIONAL MONTEVERDE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ENTIDAD INDIVIDUAL EDUCACIONAL COLEGIO ALESSANDRI
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION EDUCACIONAL DOCERE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CENTRO DE PADRES Y APODERADOS COLEGIO REPUBLICA DE SIRIA SED
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ASOCIACION YO CUIDO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CORPORACION INSTITUTO PROFESIONAL SANTO TOMAS
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CORPORACION CENTRO DE FORMACION TECNICA SANTO TOMAS
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ASOCIACION GREMIAL MINERA DE PETORCA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: FUNDACION EDUCACIONAL COLEGIO NUESTRA SENORA DEL CARMEN
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: I MUNICIPALIDAD DE COPIAPO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: I. MUNICIPALIDAD DE LIMACHE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: I. MUNICIPALIDAD DE PEÑAFLOR
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: I MUNICIPALIDAD DE MARCHIGUE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ILUSTRE MUNICIPALIDAD DE CUREPTO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: I. MUNICIPALIDAD DE SAN CLEMENTE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ILUSTRE MUNICIPALIDAD DE QUIRIHUE
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: I. MUNICIPALIDAD DE COBQUECURA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ILUSTRE MUNICIPALIDAD DE DIEGO DE ALMAGRO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ILUSTRE MUNICIPALIDAD DE CHILLAN DEPARTAMENTO DE SALUD
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: ORGANIZACION DE LAS NACIONES UNIDAS
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CUERPO DE BOMBEROS DE ÑUÑOA
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CORPORACION EDUCACIONAL ALIANZA FRANCESA DE SANTIAGO
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: LA ARAUCANA  C C A F
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CAJA DE COMPENSACION DE ASIGNACION FAMILIAR LOS HEROES
+[2025-08-17 03:31:00] [WARNING] ⚠️ Organización duplicada omitida: CONSEJO DE DEFENSA CUIDAD DEL NIÑO
+[2025-08-17 03:31:00] [INFO] ✅ Lote 7 procesado exitosamente
+[2025-08-17 03:31:00] [INFO] 📈 Progreso: 21.21% completado
+[2025-08-17 03:31:00] [INFO] 📦 Procesando lote 8/33 (50 registros)
+[2025-08-17 03:31:01] [INFO] ✅ Lote 8 procesado exitosamente
+[2025-08-17 03:31:01] [INFO] 📈 Progreso: 24.24% completado
+[2025-08-17 03:31:01] [INFO] 📦 Procesando lote 9/33 (50 registros)
+[2025-08-17 03:31:02] [INFO] ✅ Lote 9 procesado exitosamente
+[2025-08-17 03:31:02] [INFO] 📈 Progreso: 27.27% completado
+[2025-08-17 03:31:02] [INFO] 📦 Procesando lote 10/33 (50 registros)
+[2025-08-17 03:31:03] [INFO] ✅ Lote 10 procesado exitosamente
+[2025-08-17 03:31:03] [INFO] 📈 Progreso: 30.3% completado
+[2025-08-17 03:31:03] [INFO] 📦 Procesando lote 11/33 (50 registros)
+[2025-08-17 03:31:04] [INFO] ✅ Lote 11 procesado exitosamente
+[2025-08-17 03:31:04] [INFO] 📈 Progreso: 33.33% completado
+[2025-08-17 03:31:04] [INFO] 📦 Procesando lote 12/33 (50 registros)
+[2025-08-17 03:31:04] [INFO] ✅ Lote 12 procesado exitosamente
+[2025-08-17 03:31:04] [INFO] 📈 Progreso: 36.36% completado
+[2025-08-17 03:31:04] [INFO] 📦 Procesando lote 13/33 (50 registros)
+[2025-08-17 03:31:05] [INFO] ✅ Lote 13 procesado exitosamente
+[2025-08-17 03:31:05] [INFO] 📈 Progreso: 39.39% completado
+[2025-08-17 03:31:05] [INFO] 📦 Procesando lote 14/33 (50 registros)
+[2025-08-17 03:31:06] [INFO] ✅ Lote 14 procesado exitosamente
+[2025-08-17 03:31:06] [INFO] 📈 Progreso: 42.42% completado
+[2025-08-17 03:31:06] [INFO] 📦 Procesando lote 15/33 (50 registros)
+[2025-08-17 03:31:06] [INFO] ✅ Lote 15 procesado exitosamente
+[2025-08-17 03:31:06] [INFO] 📈 Progreso: 45.45% completado
+[2025-08-17 03:31:06] [INFO] 📦 Procesando lote 16/33 (50 registros)
+[2025-08-17 03:31:07] [INFO] ✅ Lote 16 procesado exitosamente
+[2025-08-17 03:31:07] [INFO] 📈 Progreso: 48.48% completado
+[2025-08-17 03:31:07] [INFO] 📦 Procesando lote 17/33 (50 registros)
+[2025-08-17 03:31:08] [INFO] ✅ Lote 17 procesado exitosamente
+[2025-08-17 03:31:08] [INFO] 📈 Progreso: 51.52% completado
+[2025-08-17 03:31:08] [INFO] 📦 Procesando lote 18/33 (50 registros)
+[2025-08-17 03:31:08] [INFO] ✅ Lote 18 procesado exitosamente
+[2025-08-17 03:31:08] [INFO] 📈 Progreso: 54.55% completado
+[2025-08-17 03:31:08] [INFO] 📦 Procesando lote 19/33 (50 registros)
+[2025-08-17 03:31:10] [INFO] ✅ Lote 19 procesado exitosamente
+[2025-08-17 03:31:10] [INFO] 📈 Progreso: 57.58% completado
+[2025-08-17 03:31:10] [INFO] 📦 Procesando lote 20/33 (50 registros)
+[2025-08-17 03:31:11] [INFO] ✅ Lote 20 procesado exitosamente
+[2025-08-17 03:31:11] [INFO] 📈 Progreso: 60.61% completado
+[2025-08-17 03:31:11] [INFO] 📦 Procesando lote 21/33 (50 registros)
+[2025-08-17 03:31:12] [INFO] ✅ Lote 21 procesado exitosamente
+[2025-08-17 03:31:12] [INFO] 📈 Progreso: 63.64% completado
+[2025-08-17 03:31:12] [INFO] 📦 Procesando lote 22/33 (50 registros)
+[2025-08-17 03:31:12] [INFO] ✅ Lote 22 procesado exitosamente
+[2025-08-17 03:31:12] [INFO] 📈 Progreso: 66.67% completado
+[2025-08-17 03:31:12] [INFO] 📦 Procesando lote 23/33 (50 registros)
+[2025-08-17 03:31:13] [INFO] ✅ Lote 23 procesado exitosamente
+[2025-08-17 03:31:13] [INFO] 📈 Progreso: 69.7% completado
+[2025-08-17 03:31:13] [INFO] 📦 Procesando lote 24/33 (50 registros)
+[2025-08-17 03:31:13] [INFO] ✅ Lote 24 procesado exitosamente
+[2025-08-17 03:31:13] [INFO] 📈 Progreso: 72.73% completado
+[2025-08-17 03:31:13] [INFO] 📦 Procesando lote 25/33 (50 registros)
+[2025-08-17 03:31:14] [INFO] ✅ Lote 25 procesado exitosamente
+[2025-08-17 03:31:14] [INFO] 📈 Progreso: 75.76% completado
+[2025-08-17 03:31:14] [INFO] 📦 Procesando lote 26/33 (50 registros)
+[2025-08-17 03:31:14] [INFO] ✅ Lote 26 procesado exitosamente
+[2025-08-17 03:31:14] [INFO] 📈 Progreso: 78.79% completado
+[2025-08-17 03:31:14] [INFO] 📦 Procesando lote 27/33 (50 registros)
+[2025-08-17 03:31:15] [INFO] ✅ Lote 27 procesado exitosamente
+[2025-08-17 03:31:15] [INFO] 📈 Progreso: 81.82% completado
+[2025-08-17 03:31:15] [INFO] 📦 Procesando lote 28/33 (50 registros)
+[2025-08-17 03:31:15] [WARNING] ⚠️ Organización duplicada omitida: BEIERSDORF S.A.
+[2025-08-17 03:31:15] [INFO] ✅ Lote 28 procesado exitosamente
+[2025-08-17 03:31:15] [INFO] 📈 Progreso: 84.85% completado
+[2025-08-17 03:31:15] [INFO] 📦 Procesando lote 29/33 (50 registros)
+[2025-08-17 03:31:15] [INFO] ✅ Lote 29 procesado exitosamente
+[2025-08-17 03:31:15] [INFO] 📈 Progreso: 87.88% completado
+[2025-08-17 03:31:15] [INFO] 📦 Procesando lote 30/33 (50 registros)
+[2025-08-17 03:31:16] [INFO] ✅ Lote 30 procesado exitosamente
+[2025-08-17 03:31:16] [INFO] 📈 Progreso: 90.91% completado
+[2025-08-17 03:31:16] [INFO] 📦 Procesando lote 31/33 (50 registros)
+[2025-08-17 03:31:16] [INFO] ✅ Lote 31 procesado exitosamente
+[2025-08-17 03:31:16] [INFO] 📈 Progreso: 93.94% completado
+[2025-08-17 03:31:16] [INFO] 📦 Procesando lote 32/33 (50 registros)
+[2025-08-17 03:31:16] [WARNING] ⚠️ Organización duplicada omitida: BANCO CONSORCIO
+[2025-08-17 03:31:17] [WARNING] ⚠️ Organización duplicada omitida: BESALCO MONTAJES S.A.
+[2025-08-17 03:31:17] [INFO] ✅ Lote 32 procesado exitosamente
+[2025-08-17 03:31:17] [INFO] 📈 Progreso: 96.97% completado
+[2025-08-17 03:31:17] [INFO] 📦 Procesando lote 33/33 (15 registros)
+[2025-08-17 03:31:17] [WARNING] ⚠️ Organización duplicada omitida: ALTO S.A.
+[2025-08-17 03:31:17] [INFO] ✅ Lote 33 procesado exitosamente
+[2025-08-17 03:31:17] [INFO] 📈 Progreso: 100% completado
+[2025-08-17 03:31:17] [INFO] 
+============================================================
+[2025-08-17 03:31:17] [INFO] 🎉 PROCESAMIENTO COMPLETADO
+[2025-08-17 03:31:17] [INFO] ============================================================
+[2025-08-17 03:31:17] [INFO] ⏱️  Tiempo de ejecución: 18.48 segundos
+[2025-08-17 03:31:17] [INFO] 🏢 Organizaciones insertadas: 1359
+[2025-08-17 03:31:17] [INFO] 👥 Personas insertadas: 27
+[2025-08-17 03:31:17] [INFO] ⚠️  Registros omitidos: 256
+[2025-08-17 03:31:17] [INFO] ❌ Lotes fallidos: 0
+[2025-08-17 03:31:17] [INFO] 📊 Velocidad: 73.54 org/segundo
+[2025-08-17 03:31:17] [INFO] 💾 Memoria máxima utilizada: 4 MB
+[2025-08-17 03:31:17] [INFO] ============================================================

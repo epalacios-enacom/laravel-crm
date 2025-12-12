@@ -21,24 +21,12 @@ class OrganizationDataGrid extends DataGrid
      */
     public function prepareQueryBuilder(): Builder
     {
-        // Obtenemos el id del atributo "rut"
-        $rutAttrId = DB::table('attributes')
-            ->where('code', 'rut')
-            ->where('entity_type', 'organizations')
-            ->value('id');
-
-        $queryBuilder = DB::table('organizations')
-            ->leftJoin('attribute_values as av_rut', function ($join) use ($rutAttrId) {
-                $join->on('av_rut.entity_id', '=', 'organizations.id')
-                     ->where('av_rut.attribute_id', $rutAttrId)
-                     ->where('av_rut.entity_type', 'organizations');
-            })
+        return DB::table('organizations')
             ->addSelect(
                 'organizations.id',
                 'organizations.name',
                 'organizations.address',
-                'organizations.created_at',
-                DB::raw('av_rut.text_value as rut') // ⚠️ si tu campo está en otra columna (varchar_value, etc.) cámbialo aquí
+                'organizations.created_at'
             );
 
         if ($userIds = bouncer()->getAuthorizedUserIds()) {
@@ -46,12 +34,8 @@ class OrganizationDataGrid extends DataGrid
         }
 
         $this->addFilter('id', 'organizations.id');
+
         $this->addFilter('organization', 'organizations.name');
-
-        // Nuevo filtro RUT
-        $this->addFilter('rut', 'av_rut.text_value');
-
-        return $queryBuilder;
     }
 
     /**
@@ -87,16 +71,6 @@ class OrganizationDataGrid extends DataGrid
 
                 return $personsCount;
             },
-        ]);
-
-        // Nueva columna RUT
-        $this->addColumn([
-            'index'      => 'rut',
-            'label'      => 'RUT',
-            'type'       => 'string',
-            'searchable' => true,
-            'sortable'   => false,
-            'filterable' => true,
         ]);
 
         $this->addColumn([

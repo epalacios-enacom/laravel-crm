@@ -1,0 +1,158 @@
+name,emails,contact_numbers,organization_id,job_title
+Daniela Sepulveda,"[{""label"": ""work"", ""value"": ""dsepulveda@air.cl""}]","[{""label"": ""work"", ""value"": ""56222751068""}]",1,Gerente
+Claudia Acuña,"[{""label"": ""work"", ""value"": ""secretaria@air.cl""}]","[{""label"": ""work"", ""value"": ""56222751068""}]",1,Secretaria
+Javier Agurto,"[{""label"": ""work"", ""value"": ""jagurto@agurto.cl""}]","[{""label"": ""work"", ""value"": ""56225448620""}]",2,Compras TI
+Mauricio Arancibia,"[{""label"": ""work"", ""value"": ""marancibia@grupoalto.com""}]","[{""label"": ""work"", ""value"": ""56963109170""}]",3,Encargado de compras
+Cristian Muñoz,"[{""label"": ""work"", ""value"": ""cmunoz@grupoalto.com""}]","[{""label"": ""work"", ""value"": ""56963109170""}]",3,Jefe de Compras
+Mauricio Barrera,"[{""label"": ""work"", ""value"": ""mbarrera@bancoconsorcio.cl""}]","[{""label"": ""work"", ""value"": ""56982094901""}]",4,SuGerente Mantención y Soporte
+Claudio Baeza,"[{""label"": ""work"", ""value"": ""cbaeza@anfpchile.cl""}]","[{""label"": ""work"", ""value"": ""56991834957""}]",5,Sub Gerente Compras
+Constanza Claret,"[{""label"": ""work"", ""value"": ""cclaret@anfpchile.cl""}]","[{""label"": ""work"", ""value"": ""56991834951""}]",5,Analista de Compras
+Heriberto Barrios,"[{""label"": ""work"", ""value"": ""hbarrios@banmedica.cl""}]","[{""label"": ""work"", ""value"": ""56223533300""}]",6,Jefe Área Soporte
+Angelo Ortega,"[{""label"": ""work"", ""value"": ""angelo.ortega@beiersdorf.com""}]","[{""label"": ""work"", ""value"": ""5622544862056933738193""}]",7,encargado de compras
+Mario Moreno,"[{""label"": ""work"", ""value"": ""mmoreno@belfi.cl""}]","[{""label"": ""work"", ""value"": ""56225604800""}]",8,Jefe de Compras
+Carla Zamorano,"[{""label"": ""work"", ""value"": ""czamorano@mundodreams.com""}]","[{""label"": ""work"", ""value"": ""56968390341""}]",9,Encargada de Importaciones y proyectos especiales
+Diego Alarcon,"[{""label"": ""work"", ""value"": ""dalarcon@mundodreams.com""}]","[{""label"": ""work"", ""value"": ""56985309190""}]",9,Comprador corporativo
+Christian Díaz,"[{""label"": ""work"", ""value"": ""christian.diaz@sopelec.cl""}]",[],10,Ingeniero Informático Castro y Tagle
+Fernanda Espinosa,"[{""label"": ""work"", ""value"": ""fespinosa@etx.cl""}]","[{""label"": ""work"", ""value"": ""56992825919""}]",11,Gerente de Ventas
+Luis Castro,"[{""label"": ""work"", ""value"": ""lcastro@colegiocordillera.cl""}]","[{""label"": ""work"", ""value"": ""56224295920""}]",12,Encargado de Compras
+Bastian Zamorano,"[{""label"": ""work"", ""value"": ""bzamorano@emmanuel.cl""}]","[{""label"": ""work"", ""value"": ""56232844000""}]",13,Encargado de Compras
+Elizabeth Guerra,"[{""label"": ""work"", ""value"": ""administracion@colegiodelsagradocorazon.cl""}]","[{""label"": ""work"", ""value"": ""56224820900""}]",14,Administración
+Betsy Saavedra,"[{""label"": ""work"", ""value"": ""bsaavedra@dunalastair.cl""}]","[{""label"": ""work"", ""value"": ""56226736097""}]",15,Asistente area de compras
+Janet Cubillos,"[{""label"": ""work"", ""value"": ""contabilidad@ism-santiago.cl""}]","[{""label"": ""work"", ""value"": ""56223278700""}]",16,Contabillidad
+Wight Conrab,"[{""label"": ""work"", ""value"": ""informatica@colegiolagirouette.cl""}]","[{""label"": ""work"", ""value"": ""56229379021""}]",17,Encargado de Informática
+Silvana Palominos,"[{""label"": ""work"", ""value"": ""silvana.palominos@cognita.com""}]","[{""label"": ""work"", ""value"": ""56224309800""}]",18,Encargada de Compras
+Paula Cabello,"[{""label"": ""work"", ""value"": ""pcabello@cscj.cl""}]","[{""label"": ""work"", ""value"": ""56222780472""}]",19,Administración
+Carlos Rojas,"[{""label"": ""work"", ""value"": ""crojas@colegiosantacruz.cl""}]","[{""label"": ""work"", ""value"": ""56227388281""}]",20,Administración
+Ximena Sepúlveda,"[{""label"": ""work"", ""value"": ""xsepulveda@xiplas.cl""}]","[{""label"": ""work"", ""value"": ""56977595761""}]",21,Compras
+Felipe Herrera,"[{""label"": ""work"", ""value"": ""fherrera@cmsg.cl""}]","[{""label"": ""work"", ""value"": ""56512571100""}]",22,Encargado de compras
+Ignacio,"[{""label"": ""work"", ""value"": ""contacto@constituyendo.cl""}]","[{""label"": ""work"", ""value"": ""56962508783""}]",23,Socio
+Ariannys Delgado Restrepo,"[{""label"": ""work"", ""value"": ""a.delgado@campos-chile.cl""}]","[{""label"": ""work"", ""value"": ""5695467136856232780942""}]",24,Departamento de Adquisiciones
+Lucrecia Rodríguez S,"[{""label"": ""work"", ""value"": ""l.rodriguez@campos-chile.cl""}]","[{""label"": ""work"", ""value"": ""56232780942""}]",24,Departamento de Adquisiciones
+Brenda García,"[{""label"": ""work"", ""value"": ""b.garcia@campos-chile.cl""}]","[{""label"": ""work"", ""value"": ""5622933445556928188204""}]",24,Encargada de Adquisiciones
+Carolina Quintana,"[{""label"": ""work"", ""value"": ""c.quintana@campos-chile.cl""}]","[{""label"": ""work"", ""value"": ""56985522187""}]",24,Departamento de Adquisiciones
+Dario Hormazabal,"[{""label"": ""work"", ""value"": ""dhormazabal@mycwt.com""}]","[{""label"": ""work"", ""value"": ""56968205048""}]",25,Field Technology Services
+Ximena Sepúlveda,"[{""label"": ""work"", ""value"": ""xsepulveda@xiplas.cl""}]",[],26,Tier 3
+Felipe Herrera,"[{""label"": ""work"", ""value"": ""fherrera@cmsg.cl""}]",[],26,Tier 3
+Ignacio,"[{""label"": ""work"", ""value"": ""contacto@constituyendo.cl""}]",[],26,nuevos
+Ariannys Delgado Restrepo,"[{""label"": ""work"", ""value"": ""a.delgado@campos-chile.cl""}]",[],26,Tier 1
+Lucrecia Rodríguez S,"[{""label"": ""work"", ""value"": ""l.rodriguez@campos-chile.cl""}]",[],26,Tier 1
+Brenda García,"[{""label"": ""work"", ""value"": ""b.garcia@campos-chile.cl""}]",[],26,Tier 1
+Carolina Quintana,"[{""label"": ""work"", ""value"": ""c.quintana@campos-chile.cl""}]",[],26,Tier 1
+Dario Hormazabal,"[{""label"": ""work"", ""value"": ""dhormazabal@mycwt.com""}]",[],26,Tier 3
+Eugenio Martínez Roa,"[{""label"": ""work"", ""value"": ""EMartinez@mycwt.com""}]",[],26,Tier 3
+Paulina Piñeiro,"[{""label"": ""work"", ""value"": ""ppineiro@dlp.cl""}]",[],26,Tier 3
+Andrés Herrera,"[{""label"": ""work"", ""value"": ""aherrera@dypspa.cl""}]",[],26,Tier 3
+Nazlie Yacoub,"[{""label"": ""work"", ""value"": ""nyacoub@ei.cl""}]",[],26,nuevos
+Juan Pablo Zuñiga,"[{""label"": ""work"", ""value"": ""jzuniga@ecocopter.com""}]",[],26,Tier 3
+Claudio Ruiz,"[{""label"": ""work"", ""value"": ""claudio.ruiz@efe.cl""}]",[],26,
+Juan Medina,"[{""label"": ""work"", ""value"": ""juan.medina@efe.cl""}]",[],26,
+Gonzalo,"[{""label"": ""work"", ""value"": ""gonzalo@viainmobiliaria.cl""}]",[],26,Tier 3
+Katiuska Carrera,"[{""label"": ""work"", ""value"": ""kcarrera@farmaciasdoctorsimi.cl""}]",[],26,Tier 1
+Karina Baeza,"[{""label"": ""work"", ""value"": ""kbaeza@farmaciasdoctorsimi.cl""}]",[],26,Tier 1
+Alberto Llorens,"[{""label"": ""work"", ""value"": ""alberto.llorens@flesan.cl""}]",[],27,Tier 3
+Alejandra Soto,"[{""label"": ""work"", ""value"": ""asotoe@gepro.cl""}]",[],26,nuevos
+Sergio Miranda,"[{""label"": ""work"", ""value"": ""sergio.miranda@glencore.cl""}]",[],26,nuevos
+Luis Guerrero,"[{""label"": ""work"", ""value"": ""contacto@codmisachile.cl""}]",[],26,Tier 3
+Wanda Cabrera,"[{""label"": ""work"", ""value"": ""wanda.cabrera@inexchile.com""}]",[],26,Tier 3
+Daniel Aguila,"[{""label"": ""work"", ""value"": ""dac@ingenova.cl""}]",[],26,nuevos
+Marcelo Donoso,"[{""label"": ""work"", ""value"": ""mdonoso@nollagam.cl""}]",[],26,nuevos
+Eduardo Alarcon,"[{""label"": ""work"", ""value"": ""ealarcon@joma.cl""}]",[],26,Tier 3
+Hector Alarcon,"[{""label"": ""work"", ""value"": ""halarcon@lpasteur.cl""}]",[],26,nuevos
+Samuel Agurto,"[{""label"": ""work"", ""value"": ""sagurto@savalcorp.com""}]",[],26,nuevos
+Carlos Pineda,"[{""label"": ""work"", ""value"": ""cpineda@lams.cl""}]",[],26,Tier 3
+Mauricio Barrientos,"[{""label"": ""work"", ""value"": ""mauricio.barrientos@limaritecnologias.cl""}]",[],26,Tier 3
+Sebastián Salazar,"[{""label"": ""work"", ""value"": ""ssalazar@logisticasa.cl""}]",[],26,nuevos
+Mirta Loyola,"[{""label"": ""work"", ""value"": ""mloyola@itf-labomed.cl""}]",[],26,nuevos
+Victor Iturriaga,"[{""label"": ""work"", ""value"": ""victor.iturriaga@maersk.com""}]",[],26,
+Gonzalo Calderon,"[{""label"": ""work"", ""value"": ""gonzalo.calderon@maersk.com""}]",[],26,
+Michel Walton,"[{""label"": ""work"", ""value"": ""michel.walton@maersk.com""}]",[],28,
+Lorena Rodríguez,"[{""label"": ""work"", ""value"": ""llr@mediplex.cl""}]",[],26,
+David Fuenzalida,"[{""label"": ""work"", ""value"": ""david.fuenzalida@Mediplex.cl""}]",[],26,
+Richard Cárdenas,"[{""label"": ""work"", ""value"": ""richard.cardenas@essilor.cl""}]",[],26,nuevos
+Pablo Paredes,"[{""label"": ""work"", ""value"": ""pparedes@mpvabogados.cl""}]",[],26,nuevos
+Scarlette Tavali,"[{""label"": ""work"", ""value"": ""proyectos@metalesamal.cl""}]",[],26,Tier 3
+Karelys,"[{""label"": ""work"", ""value"": ""adm@mfsindustrial.com""}]",[],27,Tier 3
+Cristian Olguin,"[{""label"": ""work"", ""value"": ""moo@moo.cl""}]",[],26,nuevos
+Emilio Jaqueih,"[{""label"": ""work"", ""value"": ""emilio.jaqueih@mop.gov.cl""}]",[],26,nuevos
+Mario Lemus,"[{""label"": ""work"", ""value"": ""mario.lemus@mpm.cl""}]",[],26,nuevos
+Felix Santa María,"[{""label"": ""work"", ""value"": ""oscar.barriga@multotec.com""}]",[],26,nuevos
+Juliana Tamayo,"[{""label"": ""work"", ""value"": ""juliana.tamayo@net-trust.cl""}]",[],26,Tier 3
+María Pía Fuentes,"[{""label"": ""work"", ""value"": ""mariapiafuentesvaldivieso@gmail.com""}]",[],26,nuevos
+Gilberto Ramirez,"[{""label"": ""work"", ""value"": ""analista.compras@newrest.eu""}]",[],26,Tier 1
+Carlos Mora,"[{""label"": ""work"", ""value"": ""Carlos.Mora@nov.com""}]",[],26,Tier 1
+Juan Astorga,"[{""label"": ""work"", ""value"": ""Juan.Astorga@nov.com""}]",[],26,Tier 1
+Jorge Sandoval,"[{""label"": ""work"", ""value"": ""jorge.sandoval@nov.com""}]",[],26,Tier 1
+Elizabeth Santiago,"[{""label"": ""work"", ""value"": ""esantiagos@planok.com""}]",[],26,nuevos
+Carlos Cornejo,"[{""label"": ""work"", ""value"": ""carlos.cornejo@arcaltda.cl""}]",[],26,Tier 3
+Paula Sanhueza,"[{""label"": ""work"", ""value"": ""paula@pretorian-ti.com""}]",[],26,nuevos
+Alex Castillo,"[{""label"": ""work"", ""value"": ""castillo.alex@prominent.com""}]",[],26,Tier 3
+Jesus Bracho,"[{""label"": ""work"", ""value"": ""hbracho@bolsapac.cl""}]",[],26,Tier 1
+Sofia Lorca,"[{""label"": ""work"", ""value"": ""contabilidad@psscompany.com""}]",[],26,Tier 1
+César del Valle,"[{""label"": ""work"", ""value"": ""cesar.del.valle@pwc.com""}]",[],26,Tier 2
+Victor Rojas,"[{""label"": ""work"", ""value"": ""vrojas@quilin.cl""}]",[],26,Tier 3
+Jethro Stipelcovich,"[{""label"": ""work"", ""value"": ""jethro.stipelcovich@ryq.cl""}]",[],26,Tier 2
+Yijiber Bermudez,"[{""label"": ""work"", ""value"": ""ybermudez@recuperos.com""}]",[],26,nuevos
+Freddy Vega Araya,"[{""label"": ""work"", ""value"": ""freddyremix@hotmail.com""}]",[],26,Tier 3
+Sandra Godoy,"[{""label"": ""work"", ""value"": ""sgodoy@reno.cl""}]",[],26,Tier 3
+Jennivi Aguirre,"[{""label"": ""work"", ""value"": ""adquisiciones@retografica.cl""}]",[],26,nuevos
+Catalina Palma,"[{""label"": ""work"", ""value"": ""catalina.p@rompecabeza.cl""}]",[],26,nuevos
+Claudia Urquiza,"[{""label"": ""work"", ""value"": ""curquiza@siv.cl""}]",[],26,nuevos
+Jose Peña,"[{""label"": ""work"", ""value"": ""adm@santamartinaequipments.cl""}]",[],26,nuevos
+Ignacio Garrido Lagos,"[{""label"": ""work"", ""value"": ""mgarridol@santotomas.cl""}]",[],26,Tier 1
+Lorena Herrera,"[{""label"": ""work"", ""value"": ""lherrerat@santotomas.cl""}]",[],26,Tier 1
+Geissy Gutiérrez,"[{""label"": ""work"", ""value"": ""ggutierrez@santotomas.cl""}]",[],26,Tier 1
+Cristobal Jofré,"[{""label"": ""work"", ""value"": ""cjofre@scmcorp.cl""}]",[],26,Tier 2
+Tomás Cortés,"[{""label"": ""work"", ""value"": ""tcortes@afscorp.cl""}]",[],26,Tier 2
+Roberto Poblete,"[{""label"": ""work"", ""value"": ""roberto.poblete@segurossura.cl""}]",[],26,nuevos
+Angel López,"[{""label"": ""work"", ""value"": ""comercial@sicseguridad.cl""}]",[],27,nuevos
+Francisco Bustamante,"[{""label"": ""work"", ""value"": ""fbustamante@sibt.cl""}]",[],26,nuevos
+Octavio Asenjo,"[{""label"": ""work"", ""value"": ""oasenjo@amicar.cl""}]",[],26,nuevos
+Patricio Cornejo,"[{""label"": ""work"", ""value"": ""pcornejo@solucorp.com""}]",[],26,nuevos
+Alfredo Espinoza Villa,"[{""label"": ""work"", ""value"": ""alfredo.espinoza@solunion.com""}]",[],26,Tier 1
+Rafael Mena,"[{""label"": ""work"", ""value"": ""rafael.mena@sonami.cl""}]",[],26,Tier 1
+Daniel Sagal,"[{""label"": ""work"", ""value"": ""d.sagal@stasoluciones.cl""}]",[],26,nuevos
+Jaime Moreno,"[{""label"": ""work"", ""value"": ""jmoreno@surmonte.cl""}]",[],26,nuevos
+Dominique Ventura,"[{""label"": ""work"", ""value"": ""dventura@taisa.cl""}]",[],26,nuevos
+Elias Sandoval,"[{""label"": ""work"", ""value"": ""ventas@talumi.cl""}]",[],26,Tier 3
+María Alejandra Torres,"[{""label"": ""work"", ""value"": ""gerencia@tecnicor.cl""}]",[],26,nuevos
+Alvaro Gonzalez,"[{""label"": ""work"", ""value"": ""agonzalez@tecnopapel.cl""}]",[],26,nuevos
+Juan Carlos Guevara,"[{""label"": ""work"", ""value"": ""tek_ti@tek.tech""}]",[],26,nuevos
+Carlos Casarino,"[{""label"": ""work"", ""value"": ""ccasarino@tek.tech""}]",[],28,nuevos
+Luis Silva,"[{""label"": ""work"", ""value"": ""luis.silva@theangels.cl""}]",[],26,Tier 3
+Mario Iniescar,"[{""label"": ""work"", ""value"": ""mario.iniescar@grange.cl""}]",[],26,Tier 3
+Ricardo Saldias,"[{""label"": ""work"", ""value"": ""ricardosaldias@kentschool.cl""}]",[],26,Tier 3
+Gonzalo Valenzuela,"[{""label"": ""work"", ""value"": ""gvalenzuela@tieline.cl""}]",[],26,Tier 3
+Gustavo Martinez,"[{""label"": ""work"", ""value"": ""gustavo.martinez@rosen.cl""}]",[],26,Tier 3
+Gonzalo Arratia,"[{""label"": ""work"", ""value"": ""gonzalo.arratia@toesca.com""}]",[],26,Tier 3
+Renato Machado,"[{""label"": ""work"", ""value"": ""renato.machado@transvip.cl""}]",[],26,Tier 3
+Alex Sánchez,"[{""label"": ""work"", ""value"": ""asanchez@tsconsultores.cl""}]",[],26,Tier 3
+Roxana Candia,"[{""label"": ""work"", ""value"": ""rcandia@tusan.cl""}]",[],26,Tier 1
+Mauricio Durán,"[{""label"": ""work"", ""value"": ""mduran@tusan.cl""}]",[],26,Tier 1
+Mauricio Sierra,"[{""label"": ""work"", ""value"": ""mauricio.sierra@unacem.cl""}]",[],26,nuevos
+Paulina Vera,"[{""label"": ""work"", ""value"": ""paulina.vera@uniacc.cl""}]",[],26,nuevos
+Oscar Opazo,"[{""label"": ""work"", ""value"": ""oscar.opazo@udp.cl""}]",[],26,nuevos
+Roberto Serey,"[{""label"": ""work"", ""value"": ""roberto.serey@umayor.cl""}]",[],26,
+Nelson Escalante,"[{""label"": ""work"", ""value"": ""nelson.escalante@umayor.cl""}]",[],26,nuevos
+Rodrigo Hurtado,"[{""label"": ""work"", ""value"": ""rhurtadb@uc.cl""}]",[],26,nuevos
+Adriana Calero,"[{""label"": ""work"", ""value"": ""acalero@verano.energy""}]",[],26,nuevos
+Emerson Osorio,"[{""label"": ""work"", ""value"": ""emerson.osorio@watts.cl""}]",[],26,Tier 3
+Alejandro Bravo,"[{""label"": ""work"", ""value"": ""abravo@grupozanartu.cl""}]",[],26,Tier 3
+Juan Villafaña G,"[{""label"": ""work"", ""value"": ""jvillafana.ext@acciona.com""}]",[],26,Tier 3
+Alex Carrizo,"[{""label"": ""work"", ""value"": ""inte_e_acarrizo@intervialchile.cl""}]",[],26,Tier 3
+Patrick Inostroza,"[{""label"": ""work"", ""value"": ""patrick.inostroza@surmedical.cl""}]",[],26,Tier 1
+Rodrigo Ortega Machuca,"[{""label"": ""work"", ""value"": ""rortega@netgroup.cl""}]",[],26,Tier 2
+Manuel Hernández,"[{""label"": ""work"", ""value"": ""mhernandez@netgroup.cl""}]",[],26,Tier 2
+Eliana Díaz Gómez,"[{""label"": ""work"", ""value"": ""eliana.diaz@enaer.cl""}]",[],26,Tier 1
+Ronaldo Hermosilla,"[{""label"": ""work"", ""value"": ""ronaldo.hermosilla@enaer.cl""}]",[],26,Tier 1
+Jorge Rojas,"[{""label"": ""work"", ""value"": ""jrojas@maisasa.cl""}]",[],26,Tier 1
+Raul Toro,"[{""label"": ""work"", ""value"": ""rtoro@cca.cl""}]",[],26,Tier 3
+Alondra Bugueño,"[{""label"": ""work"", ""value"": ""abugueno@cca.cl""}]",[],26,Tier 3
+Karen Ruiz,"[{""label"": ""work"", ""value"": ""kruiz@netland.cl""}]",[],26,Tier 3
+Cristobal Rubio,"[{""label"": ""work"", ""value"": ""crubio@netland.cl""}]",[],26,Tier 3
+Cristian Ceroni,"[{""label"": ""work"", ""value"": ""cceroni@itorca.cl""}]",[],26,Tier 3
+Fabiola Ecudel,"[{""label"": ""work"", ""value"": ""contabilidadfe@sarrapropiedades.cl""}]",[],26,Tier 3
+Paloma Caros,"[{""label"": ""work"", ""value"": ""pcaros@aycimpresores.cl""}]",[],26,Tier 3
+Nelson Vasquez,"[{""label"": ""work"", ""value"": ""nvasquez@totalcheck.cl""}]",[],26,Tier 3
+Omar Alarcon,"[{""label"": ""work"", ""value"": ""oalarcon@prontomatic.cl""}]",[],28,nuevos
+Oscar Sierra,"[{""label"": ""work"", ""value"": ""oscar.sierra@labprater.cl""}]",[],26,Tier 1
+Jean Albarran,"[{""label"": ""work"", ""value"": ""jean.albarran@labprater.cl""}]",[],26,Tier 1

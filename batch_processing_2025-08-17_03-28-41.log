@@ -1,0 +1,35 @@
+[2025-08-17 03:28:41] [INFO] ✅ Conexión exitosa a la base de datos (entorno: docker)
+[2025-08-17 03:28:41] [INFO] 🚀 Iniciando procesamiento por lotes de: organizations_with_user_id.csv
+[2025-08-17 03:28:42] [INFO] 📊 Total de registros a procesar: 1615
+[2025-08-17 03:28:42] [INFO] 📦 Procesando lote 1/33 (50 registros)
+[2025-08-17 03:28:42] [ERROR] ❌ Error en lote 1 (intento 1): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'responsable Compras' for key 'organizations.organizations_name_unique'
+[2025-08-17 03:28:42] [INFO] 🔄 Reintentando lote 1...
+[2025-08-17 03:28:43] [ERROR] ❌ Error en lote 1 (intento 2): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'responsable Compras' for key 'organizations.organizations_name_unique'
+[2025-08-17 03:28:43] [INFO] 🔄 Reintentando lote 1...
+[2025-08-17 03:28:45] [ERROR] ❌ Error en lote 1 (intento 3): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'responsable Compras' for key 'organizations.organizations_name_unique'
+[2025-08-17 03:28:45] [ERROR] 💥 Lote 1 falló después de 3 intentos
+[2025-08-17 03:28:45] [INFO] 📈 Progreso: 3.03% completado
+[2025-08-17 03:28:45] [INFO] 📦 Procesando lote 2/33 (50 registros)
+[2025-08-17 03:28:45] [INFO] ✅ Lote 2 procesado exitosamente
+[2025-08-17 03:28:45] [INFO] 📈 Progreso: 6.06% completado
+[2025-08-17 03:28:45] [INFO] 📦 Procesando lote 3/33 (50 registros)
+[2025-08-17 03:28:46] [INFO] ✅ Lote 3 procesado exitosamente
+[2025-08-17 03:28:46] [INFO] 📈 Progreso: 9.09% completado
+[2025-08-17 03:28:46] [INFO] 📦 Procesando lote 4/33 (50 registros)
+[2025-08-17 03:28:47] [INFO] ✅ Lote 4 procesado exitosamente
+[2025-08-17 03:28:47] [INFO] 📈 Progreso: 12.12% completado
+[2025-08-17 03:28:47] [INFO] 📦 Procesando lote 5/33 (50 registros)
+[2025-08-17 03:28:47] [ERROR] ❌ Error en lote 5 (intento 1): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SERVICIOS PROFESIONALES DE LENGUAJE CARMEN JIRON E.I.R.L' for key 'organizations.organizations_name_unique'
+[2025-08-17 03:28:47] [INFO] 🔄 Reintentando lote 5...
+[2025-08-17 03:28:48] [ERROR] ❌ Error en lote 5 (intento 2): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SERVICIOS PROFESIONALES DE LENGUAJE CARMEN JIRON E.I.R.L' for key 'organizations.organizations_name_unique'
+[2025-08-17 03:28:48] [INFO] 🔄 Reintentando lote 5...
+[2025-08-17 03:28:50] [ERROR] ❌ Error en lote 5 (intento 3): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'SERVICIOS PROFESIONALES DE LENGUAJE CARMEN JIRON E.I.R.L' for key 'organizations.organizations_name_unique'
+[2025-08-17 03:28:50] [ERROR] 💥 Lote 5 falló después de 3 intentos
+[2025-08-17 03:28:50] [INFO] 📈 Progreso: 15.15% completado
+[2025-08-17 03:28:50] [INFO] 📦 Procesando lote 6/33 (50 registros)
+[2025-08-17 03:28:50] [INFO] ✅ Lote 6 procesado exitosamente
+[2025-08-17 03:28:50] [INFO] 📈 Progreso: 18.18% completado
+[2025-08-17 03:28:50] [INFO] 📦 Procesando lote 7/33 (50 registros)
+[2025-08-17 03:28:50] [INFO] ✅ Lote 7 procesado exitosamente
+[2025-08-17 03:28:50] [INFO] 📈 Progreso: 21.21% completado
+[2025-08-17 03:28:50] [INFO] 📦 Procesando lote 8/33 (50 registros)

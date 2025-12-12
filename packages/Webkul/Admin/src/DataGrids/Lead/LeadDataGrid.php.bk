@@ -84,13 +84,6 @@ class LeadDataGrid extends DataGrid
             $queryBuilder->whereIn('leads.user_id', $userIds);
         }
 
-        // 👇 Cambio agregado: restringir a Ejecutivos solo sus leads
-        $user = auth()->guard('user')->user();
-        if ($user && $user->role && $user->role->name === 'Ejecutivos') {
-            $queryBuilder->where('leads.user_id', $user->id);
-        }
-        // 👆 Fin del cambio agregado
-
         if (! is_null(request()->input('rotten_lead.in'))) {
             $queryBuilder->havingRaw($tablePrefix.'rotten_lead = '.request()->input('rotten_lead.in'));
         }
