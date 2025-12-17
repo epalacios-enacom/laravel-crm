@@ -67,7 +67,10 @@ class OrganizationController extends Controller
     {
         $organization = $this->organizationRepository->findOrFail($id);
 
-        return view('admin::contacts.organizations.edit', compact('organization'));
+        // Load associated persons
+        $persons = $organization->persons()->get();
+
+        return view('admin::contacts.organizations.edit', compact('organization', 'persons'));
     }
 
     /**
