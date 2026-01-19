@@ -1,0 +1,21 @@
+{
+  "name": "webkul/enacom-lead-org",
+  "description": "ENACOM: Lead grid with organization column, filter and export",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Webkul\\EnacomLeadOrg\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Webkul\\EnacomLeadOrg\\Providers\\EnacomLeadOrgServiceProvider"
+      ]
+    }
+  },
+  "require": {
+    "php": ">=8.1"
+  }
+}
