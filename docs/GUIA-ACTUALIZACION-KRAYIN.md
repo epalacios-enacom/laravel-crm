@@ -109,16 +109,16 @@ ssh root@CRM-krayin-enacom
 
 cd /opt/krayin-crm/src
 git fetch origin
-git reset --hard origin/2.1
+git pull origin 2.1
 
-# Limpiar cachés
-php artisan cache:clear
-php artisan config:clear
-php artisan view:clear
-php artisan route:clear
+# Limpiar cachés (DENTRO DEL CONTENEDOR)
+docker exec -it krayin-app php artisan cache:clear
+docker exec -it krayin-app php artisan config:clear
+docker exec -it krayin-app php artisan view:clear
+docker exec -it krayin-app php artisan route:clear
 
 # Si hay migraciones nuevas
-php artisan migrate --force
+docker exec -it krayin-app php artisan migrate --force
 ```
 
 ---
